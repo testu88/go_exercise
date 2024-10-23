@@ -1,6 +1,6 @@
 "hello world"
 
 "This is hello from Irene. I am adding a new line of code here."
-
+This is hello from Edyth, without double quotes. I am adding a line here too.
 
 "Hello again. I am here to add in a second line. I am Irene."
